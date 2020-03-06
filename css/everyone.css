@@ -24,6 +24,11 @@ a {
     height: 81px;
 }
 
+.header img:hover {
+    border: 1px solid mediumvioletred;
+    border-radius: 4px;
+}
+
 .topnav {
     overflow: hidden;
     background-color: black;
