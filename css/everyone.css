@@ -12,7 +12,7 @@ a {
 }
 
 .header {
-    background-color: rgb(17, 17, 17);
+    background-image: linear-gradient(to right, aqua, mediumvioletred);
     color: white;
     text-align: center;
     padding: 5px;
@@ -42,4 +42,20 @@ a {
 .topnav a:hover {
     background-color: white;
     color: black;
+}
+
+.footer {
+    display: block;
+    background-color: rgb(15, 15, 15);
+    text-align: center;
+    padding: 10px 12px;
+    color: white;
+}
+
+.footer a {
+    color: rgb(220, 20, 153);
+}
+
+.footer a:hover {
+    color: aqua;
 }
