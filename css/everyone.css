@@ -1,0 +1,45 @@
+body {
+    background-image: url('https://motionarray.imgix.net/preview-268054-RgZPqH0sHh-high_0000.jpg');
+}
+
+h1 {
+    font-family: 'Spartan', sans-serif;
+}
+
+a {
+    font-family: 'Spartan', sans-serif;
+    letter-spacing: -1px;
+}
+
+.header {
+    background-color: rgb(17, 17, 17);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.header img {
+    float: left;
+    width: 81px;
+    height: 81px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: black;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Spartan', sans-serif;
+}
+  
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
